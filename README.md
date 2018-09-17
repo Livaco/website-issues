@@ -5,3 +5,5 @@ When submitting an issue, tell us:
 - Is it Front-end of Back-end (Clientside or Serverside)
 
 Put as much detail in as possible.
+
+Suggestions are also welcome in issues.
